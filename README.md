@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/24e58b1d-84eb-4226-8c5c-1b3666589343) and start prompting.
+Simply visit the [Lovable Project](https://harshitrajportfolio.netlify.app/) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
